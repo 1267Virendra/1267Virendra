@@ -36,7 +36,7 @@
   <a href="https://www.researchgate.net/profile/Virendra-Kumar-56/">
     <img align="center" alt="Santosh Kumar Panda | Researchgate" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/ResearchGate_icon_SVG.svg.png" />
   </a>
-   <a href="https://www.scopus.com/authid/detail.uri?authorId=58960654900">
+   <a href="https://www.scopus.com/authid/detail.uri?authorId=57564598100">
     <img align="center" alt="Santosh Kumar Panda | Scopus" width="35px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/scopus.jpg" />
   </a>
     <a href="https://santoshpanda1995.github.io/portfolio/">

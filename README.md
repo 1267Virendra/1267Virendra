@@ -36,7 +36,7 @@
    <a href="https://www.scopus.com/authid/detail.uri?authorId=57564598100">
     <img align="center" alt="Santosh Kumar Panda | Scopus" width="35px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/scopus.jpg" />
   </a>
-    <a href="https://santoshpanda1995.github.io/portfolio/">
+    <a href="https://github.com/1267Virendra/">
     <img align="center" alt="Santosh Kumar Panda | Github Portfolio" width="35px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/github.png" />
   </a>
   <a href="mailto:virendrakumar1267@gmail.com">

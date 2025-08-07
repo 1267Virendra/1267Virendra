@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Santosh Kumar Panda &nbsp; <img src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/cat.gif" width="50px"></h1>
+<h1 align="center">Hi 👋, I'm Virendra Kumar &nbsp; <img src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/cat.gif" width="50px"></h1>
 
-<h3 align="center"> 💻 Assistant Professor, SoCS, UPES Dehradun 📊 <p>&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=1267Virendra&label=PROFILE+VIEWS" alt="1267Virendra" /></p></h3>
+<h3 align="center"> 💻 Assistant Professor <br> School of Computer Science, University of Petroleum and Energy Studies (UPES), Dehradun 📊 <p>&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=1267Virendra&label=PROFILE+VIEWS" alt="1267Virendra" /></p></h3>
 
 <p align="center">
 - 👋 Hello there, I am Santosh Kumar Panda
@@ -21,7 +21,7 @@
     <img align="center" alt="Santosh Kumar Panda | Linkedin" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/Linkedin.svg" />
   </a>
   <a href="https://orcid.org/0000-0003-2820-3320/">
-    <img align="center" alt="Santosh Kumar Panda | ORCID" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/ORCID_iD.svg.png" />
+    <img align="center" alt="Santosh Kumar Panda | ORCID" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/ORCID_iD.svg.png" 
   </a>
   <a href="https://scholar.google.com/citations?user=-cqqCNoAAAAJ&hl=en/">
     <img align="center" alt="Santosh Kumar Panda | Google Scholar" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/Google_Scholar_logo.svg.png" />

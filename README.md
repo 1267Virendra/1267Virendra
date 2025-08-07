@@ -33,7 +33,7 @@
   <a href="https://www.facebook.com/profile.php?id=100004670146238/">
     <img align="center" alt="Santosh Kumar Panda | Facebook" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/fb.png" />
   </a>
-  <a href="https://www.researchgate.net/profile/Santosh-Panda-13/">
+  <a href="https://www.researchgate.net/profile/Virendra-Kumar-56/">
     <img align="center" alt="Santosh Kumar Panda | Researchgate" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/ResearchGate_icon_SVG.svg.png" />
   </a>
    <a href="https://www.scopus.com/authid/detail.uri?authorId=58960654900">

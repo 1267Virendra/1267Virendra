@@ -4,8 +4,8 @@
 
 <p align="center">
 - 👋 Hello there, I am Virendra Kumar
-- I am currently pursuing my Ph.D. from Banaras Hindu University, Varanasi.
-- I have qualified CSIR-UGC NET JRF in June 2019.
+- I have completed my Ph.D. from Banaras Hindu University, Varanasi.
+- I have qualified for the CSIR-UGC NET JRF in June 2019.
 - I have done my master's degree in Mathematics and Computing from IIT Guwahati.
 - I have done my bachelor's degree in Mathematics from Hindu College, University of Delhi.
 - I was an INSPIRE Scholar under DST (India) from 2013 to 2018.

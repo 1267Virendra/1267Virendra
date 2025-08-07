@@ -14,7 +14,6 @@
 - 💞️ I’m looking to collaborate on the above topics
 </p>
 
-<h3 align="center"> Checkout my Portfolio- <a href="https://1267Virendra.github.io/portfolio/">1267Virendra.github.io/portfolio/</a> </h3>
 
 <h3 align="center">Connect with me:</h3>
 

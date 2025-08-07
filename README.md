@@ -27,9 +27,6 @@
   <a href="https://scholar.google.com/citations?user=-m_Y9iAAAAAJ&hl=en/">
     <img align="center" alt="Santosh Kumar Panda | Google Scholar" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/Google_Scholar_logo.svg.png" />
   </a>
-  <a href="https://www.instagram.com/santosh_panda_254/">
-    <img align="center" alt="Santosh Kumar Panda | Instagram" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/Instagram.svg" />
-  </a>
   <a href="https://www.facebook.com/profile.php?id=100004670146238/">
     <img align="center" alt="Santosh Kumar Panda | Facebook" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/fb.png" />
   </a>

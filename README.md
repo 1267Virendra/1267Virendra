@@ -24,13 +24,13 @@
   <a href="https://orcid.org/0000-0003-0393-4979/">
     <img align="center" alt="Santosh Kumar Panda | ORCID" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/ORCID_iD.svg.png" 
   </a>
-  <a href="https://scholar.google.com/citations?user=-cqqCNoAAAAJ&hl=en/">
+  <a href="https://scholar.google.com/citations?user=-m_Y9iAAAAAJ&hl=en/">
     <img align="center" alt="Santosh Kumar Panda | Google Scholar" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/Google_Scholar_logo.svg.png" />
   </a>
   <a href="https://www.instagram.com/santosh_panda_254/">
     <img align="center" alt="Santosh Kumar Panda | Instagram" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/Instagram.svg" />
   </a>
-  <a href="https://www.facebook.com/prince.s.kumar.94/">
+  <a href="https://www.facebook.com/profile.php?id=100004670146238/">
     <img align="center" alt="Santosh Kumar Panda | Facebook" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/fb.png" />
   </a>
   <a href="https://www.researchgate.net/profile/Santosh-Panda-13/">
@@ -42,7 +42,7 @@
     <a href="https://santoshpanda1995.github.io/portfolio/">
     <img align="center" alt="Santosh Kumar Panda | Github Portfolio" width="35px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/github.png" />
   </a>
-  <a href="mailto:sonupanda1995@gmail.com">
+  <a href="mailto:virendrakumar1267@gmail.com">
     <img align="center" alt="Santosh Kumar Panda | Gmail" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/Gmail.svg" />
   </a><br>
 </p>

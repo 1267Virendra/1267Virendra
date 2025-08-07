@@ -3,13 +3,14 @@
 <h3 align="center"> 💻 Assistant Professor <br> School of Computer Science <br> University of Petroleum and Energy Studies (UPES), Dehradun, Uttrakhand, India, Pin: 248007 📊 <p>&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=1267Virendra&label=PROFILE+VIEWS" alt="1267Virendra" /></p></h3>
 
 <p align="center">
-- 👋 Hello there, I am Santosh Kumar Panda
-- I was University Gold Medalist in my Master's.
-- I have done my MPhil degree in Image processing.
-- I am currently pursuing my Ph.D. from NIT Rourkela
-- I am a DST Inspire fellow, Funded by Govt of India
-- 👀 I’m interested in Computer vision, Image Processing and Machine learning
-- 🌱 I’m currently learning Deep learning
+- 👋 Hello there, I am Virendra Kumar
+- I am currently pursuing my Ph.D. from Banaras Hindu University, Varanasi.
+- I have qualified CSIR-UGC NET JRF in June 2019.
+- I have done my master's degree in Mathematics and Computing from IIT Guwahati.
+- I have done my bachelor's degree in Mathematics from Hindu College, University of Delhi.
+- I was an INSPIRE Scholar under DST (India) from 2013 to 2018.
+- 👀 I’m interested in Graph Theory, Chemical Graph Theory, and Mathematical Chemistry.
+- 🌱 I’m currently learning Spectral Graph Theory and QSPR/QSAR Analysis
 - 💞️ I’m looking to collaborate on the above topics
 </p>
 

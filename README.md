@@ -18,7 +18,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/santosh-kumar-panda-50761266/">
+   <a href="https://www.linkedin.com/in/virendra-kumar-8b384b136/">
     <img align="center" alt="Santosh Kumar Panda | Linkedin" width="30px" src="https://github.com/santoshpanda1995/santoshpanda1995/blob/main/Assets/Linkedin.svg" />
   </a>
   <a href="https://orcid.org/0000-0003-0393-4979/">
